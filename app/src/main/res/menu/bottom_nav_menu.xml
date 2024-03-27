@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bangunDatar"
+        android:title="Datar"
+        android:icon="@drawable/bangundatar"/>
+    <item android:id="@+id/bangunRuang"
+        android:title="Ruang"
+        android:icon="@drawable/bangunruang"/>
+    <item android:id="@+id/profile"
+        android:title="Profil"
+        android:icon="@drawable/profile"/>
+
+</menu>
